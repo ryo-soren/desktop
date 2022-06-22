@@ -1,0 +1,108 @@
+CASE 1
+
+Please choose from the following
+
+1. EAN-8
+2. UPC-A
+3. EAN-13
+4. EAN-14
+5. SSCC
+
+3
+
+Please enter a 12 digit code
+278346237464
+
+Your check digit is: 0
+Your product code is: 2783462374640
+
+1. Continue
+2. Exit
+
+1
+
+CASE 2
+
+Please enter a 7 digit code
+2343142
+
+Your check digit is: 3
+Your product code is: 23431423
+
+1. Continue
+2. Exit
+
+1
+
+CASE 3
+
+Please choose from the following
+
+1. EAN-8
+2. UPC-A
+3. EAN-13
+4. EAN-14
+5. SSCC
+
+2
+
+Please enter an 11 digit code
+12312316235
+
+Your check digit is: 3
+Your product code is: 123123162353
+
+1. Continue
+2. Exit
+
+1
+
+CASE 4
+
+Please choose from the following
+
+1. EAN-8
+2. UPC-A
+3. EAN-13
+4. EAN-14
+5. SSCC
+
+4
+
+Please enter a 13 digit code
+1231237123618
+
+Your check digit is: 2
+Your product code is: 12312371236182
+
+1. Continue
+2. Exit
+
+1
+
+CASE 5
+
+Please choose from the following
+
+1. EAN-8
+2. UPC-A
+3. EAN-13
+4. EAN-14
+5. SSCC
+
+5
+
+Please enter a 17 digit code
+12893712983712937
+
+Your check digit is: 4
+Your product code is: 128937129837129374
+
+1. Continue
+2. Exit
+
+2
+
+
+C:\Users\300359498\source\repos\Project1\x64\Debug\Project1.exe (process 12444) exited with code 0.
+Press any key to close this window . . .
